@@ -13,8 +13,8 @@ Desktop:
 
 Mobile: 
 
-![image](https://github.com/Walterhart/bikini-bottom/assets/70658679/f2f5b80d-e5c7-472b-9ca6-f31fe095cb9d)   
-
 ![image](https://github.com/Walterhart/bikini-bottom/assets/70658679/be2caea3-2623-4d48-b6c2-bdd1046aa0cd) 
+
+![image](https://github.com/Walterhart/bikini-bottom/assets/70658679/f2f5b80d-e5c7-472b-9ca6-f31fe095cb9d)   
 
 ![image](https://github.com/Walterhart/bikini-bottom/assets/70658679/b895fc99-b521-4e46-b45c-5a4357be1ff4)
